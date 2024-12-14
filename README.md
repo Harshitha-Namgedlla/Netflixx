@@ -56,9 +56,4 @@ To get started with the project locally, follow these steps:
 3. Open `index.html` in your browser to view the app.
 4. (Optional) Set up a local server using tools like Live Server (VSCode extension) or any other static server to enable dynamic content or implement a React/Vue.js version.
 
-📄 **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-This description provides an overview of the Netflix clone project, its key features, and setup instructions while outlining potential future enhancements for further functionality. Adjust the details based on your project's specifications!
